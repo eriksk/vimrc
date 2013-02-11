@@ -14,6 +14,8 @@ colorscheme solarized
 
 " Formatting
 set ts=2
+set tabstop=2
+set shiftwidth=2
 
 " Visual
 set showmatch
